@@ -149,9 +149,8 @@ function animate() {
 
     player.draw()
 
-    if(backgroundImage.src !== 'file:///C:/Users/Jo%C3%A3o%20Ferraz/OneDrive/Documentos/v2.0/LegendsOfRoberto/root/DungeonMap.png') {
+    if(backgroundImage.src !== 'https://anarodriguesesg.github.io/LegendsOfRoberto/root/DungeonMap.png') {
         foreground.draw()
-        console.log("here")
     }
     
 
